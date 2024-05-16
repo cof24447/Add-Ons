@@ -1,0 +1,5 @@
+Application Name: Desktop client 1
+
+client secret :  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
+
+client ID : 836933277888-dar4d4hrldvlqra879t580i0g6394d5k.apps.googleusercontent.com
